@@ -1,0 +1,7 @@
+replicaCount: 1
+image:
+  repository: ghcr.io/your-org/myservice
+  tag: latest
+service:
+  port: 3000
+resources: {}
