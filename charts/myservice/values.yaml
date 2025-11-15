@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: ghcr.io/your-org/myservice
+  repository: ghcr.io/aditya-karbhari/myservice
   tag: latest
 service:
   port: 3000
